@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Naga Saketh V 👋</h1>
 
 <p align="center">
-  <strong>Software Developer | Microservices Enthusiast | Game Dev Hobbyist | GATE-CSE Rank 410 AIR</strong>
+  <strong>Software Developer | Microservices Enthusiast | Real-Time Systems & Applied ML Enthusiast | GATE-CSE Rank 410 AIR</strong>
 </p>
 
 <p align="center">
@@ -18,7 +18,7 @@
 - 🏫 Final-year Computer Science student at **PES University** (CGPA: 9.64)
 - 🎯 GATE 2025 **AIR 410**
 - 🏅 3× CNR and 3× MRD Scholarship Winner (Top 5–20% in academics)
-- ⚙️ Interested in **system design**, **microservices**, **cloud architecture**, and **real-time systems**
+- ⚙️ Interested in **system design**, **microservices**, **cloud architecture**, **ai/ml** and **real-time systems**
 
 ---
 
@@ -26,7 +26,7 @@
 
 #### 🛠️ [AutoMaint](https://github.com/SAKETHVUNKA) — Predictive Maintenance Platform
 Cloud-native platform using AWS, Flask, Firebase & MQTT for machine monitoring  
-➡️ ML pipeline with LSTM/GRU models (R² > 0.99)  
+➡️ ML pipeline with LSTM/GRU models
 ➡️ Scalable microservices architecture, ML-Ops integrated
 
 #### 🚇 [City Metro DBMS](https://github.com/SAKETHVUNKA/CITY_METRO_SYSTEM)
