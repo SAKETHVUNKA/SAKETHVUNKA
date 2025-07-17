@@ -14,7 +14,7 @@
 
 ### 🧠 About Me
 
-- 🧑‍💻 Currently interning at **IBM** as a Software Development Intern (C++)
+- 🧑‍💻 Currently working at **IBM-ISL** as a Software Development Engineer (C++)
 - 🏫 Final-year Computer Science student at **PES University** (CGPA: 9.64)
 - 🎯 GATE 2025 **AIR 410**
 - 🏅 3× CNR and 3× MRD Scholarship Winner (Top 5–20% in academics)
@@ -32,10 +32,6 @@ Cloud-native platform using AWS, Flask, Firebase & MQTT for machine monitoring
 #### 🚇 [City Metro DBMS](https://github.com/SAKETHVUNKA/CITY_METRO_SYSTEM)
 A full-stack system for metro card travel, secure user authentication & smart ticketing  
 ➡️ Role-based access, theft protection, parking integrations
-
-#### 👋 [Gesture-Based Endless Runner](https://github.com/SAKETHVUNKA/Dream_Rush)
-Unity game controlled via real-world gestures using MediaPipe + NLP-generated environments  
-➡️ Immersive interaction + dynamic world gen
 
 #### 🎨 [Digital Paint Application (Java Swing)](https://github.com/SAKETHVUNKA/Digital-Paint-Application-using-Swing-and-OOPS-principles)
 Full-feature desktop drawing app  
